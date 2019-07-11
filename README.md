@@ -2,18 +2,36 @@
 
 How to use the web as a platform for data collection, computation, and publishing. Accessing data via scraping and APIs. Using the cloud for tasks that are beyond the capability of your local computing resources.
 
-## Teaching Team
+## Course Learning Outcomes
+By the end of the course, students are expected to be able to:
 
-| Position | Name  | Slack Handle | GHE Handle | Office hour
-| :------: | :---: | :----------: | :--------: | :--------: |
-| Lecturer | Mike Feeley | `@mike.feeley` |  | MoWeThFr 2-3 (ICCS 393)
-| Lab Instructor | Rodolfo Lourenzutti | `@lourenzutti` | `@lourenzu` | N/A
-| Teaching Assistant | Aaron Berk | `@aberk` | `@aberk` | Thursdays 3:30pm~4:30pm (ESB 1045) |
-| Teaching Assistant | Hayley | `@hayley` |  | Wednesday 1:00pm~2:00pm (ESB 1045) |
-| Teaching Assistant | Julian Ho | `@julian` | | Fridays 10:00am~11:00am (ESB 1045) |
-| Teaching Assistant | Minzhi Liao | `@Minzhi Liao` |  | Thursdays 12:30~1:30pm (ESB 1045) |
+1. Scrape data from websites and access data using application programming interfaces (APIs) where available.
+2. Author web content for public access.
+3. Host a simple application on a cloud computing platform such as Amazon’s EC2. 
+4. Connect the concepts in databases to those of distributed computing
+5. Parallelize computations in an environment such as ipyparallel. 
 
-## Lectures
+
+## Assessments
+
+Labs
+
+| Lab  | Lab topic   | Due Date |
+|------|-------------|-----------|
+| 1 | Lectures 1 & 2 | 2019-03-23 |
+| 2 | Lectures 3 & 4 | 2019-03-30 |
+| 3 | Lectures 5 & 6 | 2019-03-06 |
+| 4 | Lectures 7 & 8 | 2019-03-13 |
+
+Quizzes
+|     | Time | Date | Location |
+|-----|------|------|----------|
+| 1 | 13:30 - 14:00 | 2019-04-04 | Your lab session |
+| 2 | 10:00 - 10:30 | 2019-04-17 | DPM 301 |
+
+
+
+## Lecture Schedule
 
 | # | Date | Topic
 |---|-------------|-------------
@@ -28,29 +46,7 @@ How to use the web as a platform for data collection, computation, and publishin
 
 Time: 11:00am - 12:30pm
 
-## Labs
 
-| Lab  | Lab topic   | Due Date |
-|------|-------------|-----------|
-| 1 | Lectures 1 & 2 | 2019-03-23 |
-| 2 | Lectures 3 & 4 | 2019-03-30 |
-| 3 | Lectures 5 & 6 | 2019-03-06 |
-| 4 | Lectures 7 & 8 | 2019-03-13 |
-
-## Quizzes
-|     | Time | Date | Location |
-|-----|------|------|----------|
-| 1 | 13:30 - 14:00 | 2019-04-04 | Your lab session |
-| 2 | 10:00 - 10:30 | 2019-04-17 | DPM 301 |
-
-## Course Learning Outcomes
-By the end of the course, students are expected to be able to:
-
-1. Scrape data from websites and access data using application programming interfaces (APIs) where available.
-2. Author web content for public access.
-3. Host a simple application on a cloud computing platform such as Amazon’s EC2. 
-4. Connect the concepts in databases to those of distributed computing
-5. Parallelize computations in an environment such as ipyparallel. 
 
 
 ## Lecture Learning Goals
